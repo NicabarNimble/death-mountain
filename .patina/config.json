@@ -1,0 +1,30 @@
+{
+  "created": "2025-10-07T12:18:07.527280+00:00",
+  "dev": "docker",
+  "dev_manifest": {
+    "available": true,
+    "environment": "docker",
+    "version": "0.1.0"
+  },
+  "environment_snapshot": {
+    "arch": "aarch64",
+    "detected_tools": [
+      "brew",
+      "cargo-fmt",
+      "nvim",
+      "gh",
+      "claude",
+      "jq",
+      "cargo-clippy",
+      "vim",
+      "docker",
+      "wasm-pack",
+      "cargo",
+      "git",
+      "go"
+    ],
+    "os": "macos"
+  },
+  "llm": "claude",
+  "name": "."
+}
